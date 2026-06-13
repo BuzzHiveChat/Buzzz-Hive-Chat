@@ -31,7 +31,13 @@ Download the latest Android APK from the Releases page.
 
 ## Screenshots
 
-Coming soon.
+### Main Page
+
+![Main Page](screenshots/main-page.png)
+
+### Paid Page
+
+![Paid Page](screenshots/paid-page.png)
 
 ## License
 
