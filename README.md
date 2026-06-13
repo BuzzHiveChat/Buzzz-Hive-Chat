@@ -19,9 +19,11 @@ A modern community and messaging platform designed for Android.
 
 ## Beta Status
 
-🌐 **Web Platform:** Closed Beta (invite only)
+🌐 Web Platform: Closed Beta (invite only)
 
-📱 **Android App:** Open Beta (public testing available)
+📱 Android App: Open Beta (public testing available)
+
+🍎 iPhone/iOS App: Not currently available. iOS support may be added in a future release.
 
 > Buzzz Hive Chat is currently under active development. Features may change, and you may encounter bugs while testing.
 
