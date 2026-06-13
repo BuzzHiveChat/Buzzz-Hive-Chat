@@ -1,33 +1,37 @@
 # 🐝 Buzzz Hive Chat
 
-A modern community and messaging platform for Android.
+A modern community and messaging platform designed for Android.
 
 ## Features
 
-- 🐝 Hives (Communities)
-- 💬 Real-time messaging
-- 👤 User profiles
-- 📷 Media sharing
-- 🔔 Notifications
+* 🐝 Hives (Communities)
+* 💬 Real-time messaging
+* 👤 User profiles
+* 📷 Media sharing
+* 🔔 Notifications
 
 ## Planned Features
 
-- 📞 Voice calls
-- 🎥 Video calls
-- 🤖 Bots
-- 🔒 End-to-end encryption
+* 📞 Voice calls
+* 🎥 Video calls
+* 🤖 Bots
+* 🔒 End-to-end encryption
+
+## Beta Status
+
+🌐 **Web Platform:** Closed Beta (invite only)
+
+📱 **Android App:** Open Beta (public testing available)
+
+> Buzzz Hive Chat is currently under active development. Features may change, and you may encounter bugs while testing.
 
 ## Download
 
-Download the latest APK from the Releases page.
+Download the latest Android APK from the Releases page.
 
 ## Screenshots
 
 Coming soon.
-
-## Status
-
-🚧 Active Development
 
 ## License
 
