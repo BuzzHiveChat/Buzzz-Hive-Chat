@@ -31,13 +31,10 @@ Download the latest Android APK from the Releases page.
 
 ## Screenshots
 
-### Main Page
-
-![Main Page](screenshots/main-page.png)
-
-### Paid Page
-
-![Paid Page](screenshots/paid-page.png)
+<p align="center">
+  <img src="screenshots/main-page.png" width="300" alt="Main Page">
+  <img src="screenshots/paid-page.png" width="300" alt="Paid Page">
+</p>
 
 ## License
 
