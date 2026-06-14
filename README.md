@@ -61,7 +61,7 @@ The latest Android APK is available via the GitHub beta release.
 
 ## Roadmap
 
-- Voice and video communication  
+- Voice and video communication ( coming soon ) 
 - Bot integrations  
 - End-to-end encryption  
 - Performance and scalability improvements  
