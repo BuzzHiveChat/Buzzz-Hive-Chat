@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/main-page.png" width="120" alt="Buzzz Hive Chat Logo">
+  <img src="screenshots/main.png" width="120" alt="Buzzz Hive Chat Logo">
 </p>
 
 <h1 align="center">🐝 Buzzz Hive Chat</h1>
