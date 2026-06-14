@@ -1,72 +1,74 @@
 <p align="center">
-  <img src="screenshots/main-page.png" width="120" alt="Logo">
+  <img src="screenshots/main-page.png" width="120" alt="Buzzz Hive Chat Logo">
 </p>
 
 <h1 align="center">🐝 Buzzz Hive Chat</h1>
 
 <p align="center">
-A modern community and messaging platform built for Android.
+A modern community and messaging platform for Android.
 </p>
 
 <p align="center">
   <a href="https://buzzz-hive-chat.com/">
-    <img src="https://img.shields.io/badge/Website-Live-2ea44f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-buzzz--hive--chat.com-2ea44f?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Downloads-APK-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 What is Buzzz Hive Chat?
+## Overview
 
-Buzzz Hive Chat is a next-generation community platform built around **Hives** — dedicated spaces where users can create communities, chat in real time, and connect over shared interests.
+Buzzz Hive Chat is a community messaging platform built around **Hives** — dedicated spaces where users can connect, communicate, and build communities around shared interests.
 
-Think modern messaging + community spaces, reimagined around simplicity and speed.
-
-🌐 Website: https://buzzz-hive-chat.com/
+The platform focuses on simplicity, real-time communication, and structured community interaction.
 
 ---
 
-## ✨ Features
+## Key Features
 
-🐝 **Hives** – Create and join interest-based communities  
-💬 **Real-time Chat** – Fast messaging experience  
-👤 **Profiles** – Personal user identity system  
-📷 **Media Sharing** – Send images and media easily  
-🔔 **Notifications** – Stay updated in real time  
-
----
-
-## 🧪 Beta Status
-
-📱 **Android App** – Open Beta (public testing available)  
-🌐 **Web Platform** – Closed Beta (invite only)  
-🍎 **iOS App** – Not currently available  
-
-> ⚠️ This project is actively in development. Features may change and bugs may occur.
+- 🐝 **Hives** — Create and join topic-based communities  
+- 💬 **Messaging** — Real-time chat across channels and direct messages  
+- 👤 **User Profiles** — Personal identity and presence  
+- 📷 **Media Sharing** — Send images and media content  
+- 🔔 **Notifications** — Stay updated in real time  
 
 ---
 
-## 📥 Download
+## Release Status
 
-Download the latest Android APK from the **Releases** section.
+- 📱 **Android** — Open Beta (public testing available)  
+- 🌐 **Web Platform** — Closed Beta (invite-only access)  
+- 🍎 **iOS** — Not currently available  
 
----
-
-## 🧭 Roadmap
-
-- 📞 Voice calls  
-- 🎥 Video calls  
-- 🤖 Bot system  
-- 🔒 End-to-end encryption  
-- ⚡ Performance improvements  
+> Note: Buzzz Hive Chat is under active development. Features and design may evolve during the beta phase.
 
 ---
 
-## 📸 Screenshots
+## Download
+
+<p align="center">
+  <a href="https://github.com/BuzzHiveChat/Buzzz-Hive-Chat/releases/tag/beta">
+    <img src="https://img.shields.io/badge/Download-Android_APK-blue?style=for-the-badge&logo=android" />
+  </a>
+</p>
+
+The latest Android APK is available via the GitHub beta release.
+
+---
+
+## Roadmap
+
+- Voice and video communication  
+- Bot integrations  
+- End-to-end encryption  
+- Performance and scalability improvements  
+
+---
+
+## Screenshots
 
 <p align="center">
   <img src="screenshots/main-page.png" width="300" />
@@ -75,6 +77,6 @@ Download the latest Android APK from the **Releases** section.
 
 ---
 
-## 📄 License
+## License
 
-MIT License
+This project is licensed under the MIT License.
